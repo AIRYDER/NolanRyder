@@ -1,22 +1,8 @@
 # VEIN STREAM (v2 — catchy hook rework)
 
-## Style / Production Prompt
+## Style / Production Prompt (954 chars — fits the 1000-char limit)
 
-Dark industrial alternative metal fused with brutal tearout dubstep and deathstep,
-laced with bratty, catchy pop-punk hooks. Extremely low-tuned guitars, suffocating
-distorted bass, dark heavy MINIMAL electric bass and evil single-note guitar stabs
-in the drops — space and silence between hits. Verses: narcotic, claustrophobic,
-raspy low male whisper, sparse drums. Pre-chorus and chorus: catchy bratty anthemic
-chant melodies with attitude — playful but sinister, gang-vocal "hey!" shouts,
-bouncy singalong cadence (pop-punk brat energy) over crushing half-time metal.
-Drops: violent tearout — metallic bass growls, machine-like screeches, pitch-diving
-bass, glitch stutters, syncopated stop-start riffs, kick-and-bass impacts.
-Breakdown: slow, enormous, cinematic half-time nu-metalcore weight — whisper-to-scream
-dynamics, sub drops, fakeout drop, sudden silence, monstrous second drop.
-Seductive ethereal female antagonist voice (feed), raspy low male lead vocal (lead),
-eerie female vocal chops. Bleak cyberpunk atmosphere. No bright EDM, no festival
-supersaws, no upbeat major-key energy. Final drop must be heavier than everything
-before it.
+Dark industrial alt-metal fused with brutal tearout dubstep and deathstep, laced with bratty catchy pop-punk hooks. Extremely low-tuned guitars, suffocating distorted bass, minimal evil electric bass and single-note guitar stabs with space between hits. Verses: narcotic, claustrophobic, raspy low male whisper, sparse drums. Choruses: catchy bratty chant melodies, gang-vocal "hey!" shouts, bouncy singalong cadence over crushing half-time metal. Drops: violent tearout — metallic bass growls, machine screeches, pitch-diving bass, glitch stutters, stop-start riffs, kick-and-bass impacts. Breakdown: slow cinematic half-time nu-metalcore weight, whisper-to-scream, sub drops, fakeout drop, sudden silence, monstrous second drop. Seductive ethereal female antagonist voice, raspy low male lead, eerie female vocal chops, bleak cyberpunk atmosphere. No bright EDM, no supersaws, no upbeat major-key energy. Final drop heavier than everything before it.
 
 ---
 
