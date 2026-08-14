@@ -53,9 +53,9 @@ VEIN STREAM! (hey!)
 I'm in love with what's killing me
 So what! I like the hurt
 One more hit and I'll eat the dirt
-Nolan babe, be my Morpheus and
+(woman, high-pitched, loving, sweet) Nolan babe, be my Morpheus and
 WAKE! ME! UP!
-(feed, sweet, ethereal) ...or don't
+(feed, evil) stop him
 (lead, guttural) DROP.
 
 [Drop 1 - Marauda-style tearout, metallic bass growls, machine screeches, pitch-diving bass, stop-start syncopation, eerie chopped female vocal]
@@ -91,7 +91,7 @@ VEIN STREAM! (hey!)
 No blue angels — just casualties
 So what! I like the fight
 Saw and rip 'til the wires bite
-Nolan babe, be my Morpheus and
+(woman, high-pitched, loving, desperate) Nolan babe, be my Morpheus and
 WAKE! ME! UP!
 (feed, sweet, wide) you only want it more
 (lead, guttural) AGAIN.
@@ -133,7 +133,7 @@ WAKE UP! (hey!)
 Blue angels bleeding out on the bathroom floor
 So what! It made me SICK
 It made me PISSED — now I'm THE SICKNESS
-Nolan babe, I'M my Morpheus — I'M
+(woman, high-pitched, loving, triumphant) Nolan babe, you're my Morpheus — I'M
 WIDE! A-WAKE!
 (feed and lead together, sweet and wrong) we only want it more
 (lead, monstrous) LAST ONE.
