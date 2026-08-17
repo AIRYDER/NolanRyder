@@ -141,7 +141,6 @@ I just wanted to say it out loud in a room.
 (A) It knew before I did, and I let it.
 (B) I know.
 (A) I'm not saying it was good.
-(A) I'm saying it was the last thing that paid attention.
 
 [Withheld plateau — bars 87–102. THE DELAY PAST COMFORT. Harmony stops resolving here and holds on bVI — D(add9), no third in the bass — for sixteen bars while density keeps climbing. This is meant to be slightly unpleasant. Do not release it. B answers twice, then his last line ends on the downbeat of bar 99, and everything he was holding — the low unison, the octave underneath — disappears on beat two and is never replaced by anything.]
 

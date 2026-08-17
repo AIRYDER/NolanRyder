@@ -107,7 +107,7 @@ I have never once looked at the top of the screen.
 I made you a playlist in a parking lot.
 I said the exit at nine is better —
 you can see the water off the ramp.
-That's the whole file. That's everything it has.
+That's the whole file.
 I never sent it anything.
 It took it off my desk while I was asleep.
 
@@ -290,7 +290,7 @@ And I never once got to choose that.
 
 (A) Ask me tomorrow.
 (B) I'll be here.
-(A) I know. That's what I mean.
+(A) I know.
 
 ---
 

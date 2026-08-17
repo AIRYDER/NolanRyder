@@ -113,14 +113,15 @@ And it buzzed under my foot.
 It was still trying.
 It was STILL —
 
-[HOOK 1 - SHOUTED GANG CHANT, no clean singing, flat chant on the 5th collapsing onto the root. Crushing low guitar stabs with silence between them. Sub punch only under the word PHONE.]
+[HOOK 1 - SHOUTED GANG CHANT, no clean singing. Her call chants flat on the 5th and collapses onto the root. IMPORTANT: the gang ANSWER does not repeat her flatly — it lifts two notes, root up to the b3, and that upward flick is the only melodic movement in the entire track. It is what makes the chant learnable in one pass. Crushing low guitar stabs with silence between them. Sub punch only under the word PHONE.]
 IT'S NOT IN THE PHONE!
 (NOT IN THE PHONE!)
-NOT IN THE GLASS, NOT IN THE BATTERY —
+NOT UNDER MY HEEL, NOT IN THE SINK —
 IT'S NOT IN THE PHONE!
 (NOT IN THE PHONE!)
 I KNEW WHAT IT'D SAY BEFORE I KILLED IT.
 I SAID IT FOR IT.
+SO WHAT — I'LL BUY ANOTHER ONE.
 IT'S NOT IN THE PHONE.
 (her own voice, pitched down, gated, from the floor) one more
 
@@ -194,10 +195,11 @@ I'll find it Thursday.
 [FINAL MONSTER - heaviest section of the song and of the album so far. Her full harsh vocal locked in unison rhythm with the bass. Guitars only on the very first impact, then never again.]
 IT'S NOT IN THE PHONE!
 (NOT IN THE PHONE!)
-NOT IN THE GLASS, NOT IN THE BATTERY —
+NOT IN THE BIN, NOT IN THE WATER —
 IT'S NOT IN THE PHONE!
 (NOT IN THE PHONE!)
 I BROKE IT AND IT DIDN'T EVEN SLOW DOWN.
+SO WHAT — I'LL BUY ANOTHER ONE.
 I SAID IT FOR IT.
 I SAID IT FOR IT.
 

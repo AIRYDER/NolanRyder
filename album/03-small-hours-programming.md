@@ -102,7 +102,7 @@ I'll turn it down.
 It turned it down. I hadn't moved yet.
 Then the song I was about to want came on.
 Phone says twelve percent and dims itself. Fine.
-I let it. I let it. That's the whole night, I let it.
+I let it. I let it. I let it.
 
 [Pre-Chorus 2 — same walk as before, but the drums arrive early and dry. Her delivery gets FLATTER, not bigger. Do not push it]
 

@@ -19,8 +19,8 @@ Escaping together requires becoming the kind of people who can no longer stay to
 | Key | **B minor.** |
 | Meter | **4/4 throughout, no tricks.** No stolen beat, no odd bar. The flip has to be legal, or it's a stunt instead of a feeling. |
 | Drop type | **DNB.** Velocity, momentum, aggressive bass movement, controlled chaos. Two drops: the first is joy, the second is joy that has stopped being shared. |
-| Rule-break | **The two leads never resolve into the same melody — not once, not at the climax, not even when the music unites completely.** In the final section the band is a single object and the voices are two objects. |
-| Sanctioned weird thing | **Through the entire DnB, the vocals keep their original 87 BPM phrasing.** The band doubles; the voices do not. They sound like two people standing perfectly still inside something moving very fast. This is the only weird thing in the song. |
+| Rule-break | **After the divergence, the two leads never resolve into the same melody again — not at the climax, not even when the music unites completely.** They share exactly one unison in their lives: eight bars at the top of Drop 1, before the exit goes past. Everything after THE EXIT is two objects over one band. The unison is not a concession to the rule — it is the thing the rule takes away, and it has to exist to be lost. |
+| Sanctioned weird thing | **Through the DnB, the vocals keep their original 87 BPM phrasing.** The band doubles; the voices do not. They sound like two people standing perfectly still inside something moving very fast. Scoped exception: the eight unison bars of Drop 1a lock to the 174 grid — it is the only moment either of them travels at the speed of the music, and they only manage it together. |
 | Album DNA used (4 of 7) | **#1 LULLABY CELL** · **#2 "one more"** · **#4 THE CHIME** · **#6 bVI→i**. Deliberately absent: **#5 ROOM 4B** — no tape hiss, no refrigerator hum, anywhere in this track. They actually got out. The chime came with them. |
 | Album job | The exhilaration peak. The most fun three minutes on the record, and it has to hurt on the drive home. |
 
@@ -103,8 +103,8 @@ Same four pitches, opposite direction, identical harmony underneath, **never onc
 [Verse 1 / SHE PACKS - Lead A. Dry, close, conversational, slightly too pleased with herself. Live kit, palm-muted guitar eighths, melodic bass. Clean guitar plays the four-note descending figure once, forwards. Do not let her sing this - let her talk it.]
 I packed at eleven and I lied about it.
 Said I was doing laundry. I was doing laundry.
-Everything I want fits in one bag —
-that's either really sad or the best news I've had all year.
+Everything I want fits in one bag.
+I zipped it and sat on the bed and waited.
 
 There's an exit number on my hand in pen.
 Forty-one. I wrote it twice in case I sweat.
@@ -169,7 +169,14 @@ say WHEN —
 
 [THE UPSHIFT / THE ON-RAMP - no vocals. No riser, no snare roll, no impact sample. The band walks out one instrument at a time until only the palm-muted eighth-note guitar is left, dry, alone, for two bars. Then the DnB kit enters underneath it and those eighths are now the beat. Nothing accelerates. See UpShift section.]
 
-[DROP 1 / VELOCITY - DnB, 174. Reese bass walks the four-note figure. Vocal chops cut from BOTH leads' chorus takes, alternating, exactly equal - never one voice's drop. Bars 8 and 16: all drums out for two beats, nothing but bass. This section is allowed to be pure fun. Do not make it sad yet.]
+[DROP 1a / THE UNISON - bars 1-8. THE ONE TIME. Both leads lock hard to the 174 grid, SAME melody, SAME words, gang-stacked (just the two of them multiplied, no session singers). This is the only unison on the entire album and it happens before the divergence, while they are still united - so it costs nothing narratively and it is what they lose later. Full Reese, full kit, no withholding, no irony. Energy 10, intensity 8. Let it be fun.]
+(both, unison, locked to the grid, gang-stacked)
+One more flight and we're OUT!
+SAY WHEN — SAY WHEN —
+One more flight and we're OUT!
+SAY WHEN — SAY WHEN —
+
+[DROP 1b / VELOCITY - bars 9-16. Reese bass walks the four-note figure. Vocal chops cut from BOTH leads' chorus takes, alternating, exactly equal - never one voice's drop. Bars 12 and 16: all drums out for two beats, nothing but bass. Still pure fun. Do not make it sad yet.]
 (chopped, her) — out —
 (chopped, him) — out —
 (chopped, both, stuttered) s-say when
@@ -186,7 +193,6 @@ I don't care. I don't care. I'm not turning it off.
 
 (him)
 There's a mile marker every mile.
-That's the only promise anybody's kept to me.
 I keep checking the mirror.
 Not for cops.
 
@@ -360,4 +366,4 @@ Disappears: full break, sub, Reese, chime, width — everything, cut on the bar 
 
 ## STYLE PROMPT
 
-Exhilarating pop-punk that becomes high-energy drum and bass, B minor, 87 BPM flipping to 174. First half: live band, crunchy palm-muted guitars, driving melodic bass, energetic real drums, huge joyful dual-lead chorus — a female lead, conversational and bratty with an enormous belt, and a male lead, dark, warm and intimate, singing the same words in two different melodies at once, no harsh vocals. Second half: the same tempo reinterpreted as fast DnB — hard breakbeat drums, distorted Reese bass walking a four-note descending figure, huge sub, chopped vocals from the chorus, relentless forward momentum, two-chord engine, controlled chaos. Both vocals keep their slow original phrasing over the fast drums, sounding still inside something moving. Final section: unified band, two voices hard-panned left and right, different words simultaneously. No riser into the tempo flip. Ends with engine noise, one unresolved guitar chord, and a whisper. Anthemic, propulsive, driving at night.
+Pop-punk becoming high-energy drum and bass, B minor, 87 BPM flipping to 174. First half: live band, crunchy palm-muted guitars, driving melodic bass, real drums, huge joyful dual-lead chorus — a bratty female lead with an enormous belt and a dark intimate male lead singing the same words in two different melodies at once. No harsh vocals. Second half: same tempo reinterpreted as fast DnB — hard breakbeats, distorted Reese bass walking a four-note descending figure, huge sub, two-chord engine, relentless momentum. The drop opens on eight bars of both leads shouting the hook in gang-stacked unison locked to the fast grid, then breaks into chopped vocals; after that both voices keep their slow original phrasing over the fast drums, sounding still inside something moving. Finale: unified band, two voices hard-panned left and right, different words at once. No riser into the tempo flip. Ends on engine noise, one unresolved chord, a whisper. Anthemic, propulsive, driving at night.

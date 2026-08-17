@@ -110,3 +110,47 @@ over the benchmarks, with every one of ten tracks clearing the bar.
 Catchier songs: **no.** 5.20 vs 6.5. Six of ten sit at or below the benchmark on
 hook. Before track 6 this was an admired album with no single; with it, the record
 has exactly one song that beats both benchmarks outright and can carry it.
+
+---
+
+## Fixes applied (post-scoring pass)
+
+| # | Fix | Where | Status |
+|---|-----|-------|--------|
+| 1 | Eight bars of gang-stacked unison at 174, Drop 1a only | 06 | **done** |
+| 2 | "SAY WHEN" promoted into the unison as the crowd line | 06 | **done** |
+| 3 | Demonstrative *That's* tag cut in 11 of 17 lyric instances (65%) | 01–10 | **done** |
+| 4 | Track 4 made chantable: two-note lift on the gang answer, physical negations, bratty line | 04 | **done** |
+| 5 | Break the shared drop template | 02 / 07 / 08 | open |
+| 6 | Resequence 7 and 8 (three consecutive peaks) | sequence | open |
+| 7 | Vary the six identical track endings | 01/02/03/05/08/09 | open |
+
+### Detail
+
+**Track 6 — the unison.** Drop 1 now opens with eight bars of both leads locked to
+the 174 grid, same words, same melody, gang-stacked. The rule-break is rescoped
+from "never the same melody" to **"never the same melody again after the
+divergence."** This is not a concession: they share exactly one unison in their
+lives, it happens before the exit goes past, and it becomes the thing the song
+takes away. It also gives them the only moment either travels at the speed of the
+music — and they only manage it together. Style prompt re-verified at 994 chars.
+
+**Track 4 — chantability.** The gang answer no longer repeats her flatly; it lifts
+two notes (root → b3), the only melodic movement in the track, which is what makes
+it learnable in one pass. "NOT IN THE GLASS, NOT IN THE BATTERY" (abstract
+negation inventory, battery present for syllables) became **"NOT UNDER MY HEEL,
+NOT IN THE SINK"** and **"NOT IN THE BIN, NOT IN THE WATER"** — only things she
+actually did to the object. Added the bratty non-grim line the judge asked for:
+**"SO WHAT — I'LL BUY ANOTHER ONE."** Shrugged, funny, and the most hopeless line
+in the song.
+
+**Track 8 — the hook.** "That's not luck, that's homework" (copywriting, in the
+album's most-repeated position) became **"Four years of you. / I got good at you."**
+A receipt instead of a boast — and it now states the motif three times per chorus
+instead of twice, so the fix helps the hook score as well as the lyric score.
+
+**Kept deliberately:** "that's the ramp, that's the ramp" (06 — she is pointing at
+an actual ramp at speed), "Nobody moved it. That's just where they go." (10 —
+about mugs, physical), "That's not — I know you're there." (10 — interrupted
+speech, not a gloss), "and I wanted it. That's the part I'd like back." (07 — a
+confession, not an explanation).

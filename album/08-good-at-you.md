@@ -93,7 +93,8 @@ that you swear you don't skip.
 
 [Chorus 1 - full melodic-bass chorus, supersaw stack, huge reverberant snare on 3. Sung, not belted. The four notes of "got good at you" are the song's motif — land them exactly. All drums drop out under the final line.]
 I got good at you.
-That's not luck, that's homework.
+Four years of you.
+I got good at you.
 I know which "I'm fine" means keep talking
 and which one means go.
 Nobody else practiced.
@@ -112,7 +113,6 @@ You had to be okay for him in your own kitchen.
 
 I never needed you to be okay.
 I don't need anything back.
-That's not a threat.
 That's the entire offer.
 
 [Pre-Chorus 2 - everything thins out instead of building. Almost spoken. No emphasis. Deliver this like it is a small factual correction. Two beats of tape hiss after the last line before the chorus.]
@@ -123,7 +123,8 @@ and right often enough that you stayed.
 
 [Chorus 2 - belt. Full stack. Layered ethereal head-voice octave enters on the final line only, nowhere else.]
 I got good at you.
-That's not luck, that's homework.
+Four years of you.
+I got good at you.
 I know the difference between the tired you
 and the one that doesn't come back for a week.
 Nobody else practiced.
@@ -155,7 +156,8 @@ You want it or not.
 
 [Final Chorus - voice and music box. Nothing else. She never answers him. She sings the system's words in her own dry unflattering voice, quietly, like she is checking whether they fit. The last word does not arrive — the chime lands where "you" goes.]
 I got good at you.
-That's not luck, that's homework.
+Four years of you.
+I got good at you.
 Nobody else practiced.
 I got good at—
 

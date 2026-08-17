@@ -106,7 +106,7 @@ Three in the afternoon still shows up. It doesn't need a reason.
 
 [Lead A verse - Lead A. Completely dry, closer to the mic than he ever gets, no effects, no music for the first four bars - just hiss and one held bass note. Unimpressed, not cruel. Do not perform. Do not go up at the ends of lines.]
 You keep telling me the number. Nine. Fourteen. Nineteen.
-I stopped counting mine. That's how you know it's done.
+I stopped counting mine.
 You want me to sit here and be moved.
 I already did this part. Nobody sat with me.
 
