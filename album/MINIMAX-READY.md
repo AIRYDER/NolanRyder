@@ -509,7 +509,6 @@ Ambient interlude, one minute forty, D minor. No drums, no beat, no chorus, no h
 
 ```
 [Intro]
-(one live band chord, then a breath)
 (half-laughing, off-mic) okay. Okay okay okay.
 
 [Verse]
@@ -523,7 +522,7 @@ I've never wanted anything with a number on it before.
 I keep checking it's still there.
 
 [Verse]
-(male, low, unhurried)
+(male, low)
 I didn't pack. I emptied.
 Pulled the charger out of the wall and left the wall.
 Half this bag is air —
@@ -542,7 +541,7 @@ Somebody'll notice that before they notice us.
 (both, different notes) Go —
 
 [Chorus]
-(both, same words, two different melodies at once)
+(same words, two melodies at once)
 One more flight and we're out!
 Don't look at the room, look at the stairs —
 bags in the back and the engine's warm,
@@ -553,7 +552,7 @@ count it down from three flights,
 say when. (say when)
 
 [Verse]
-(breathless, overlapping, stairwell echo)
+(breathless, stairwell echo)
 (female) Second flight —
 (male) — light's on a timer —
 (female) — keep going, keep going —
@@ -579,10 +578,10 @@ that's the ramp, that's the ramp,
 say WHEN —
 
 [Transition]
-(band strips to one dry guitar, then fast drums enter underneath — nothing speeds up)
+(band strips to one dry guitar; fast drums enter under it)
 
 [Hook]
-(both, unison, gang-stacked, locked to the fast grid)
+(both, unison, gang-stacked)
 One more flight and we're OUT!
 SAY WHEN — SAY WHEN —
 One more flight and we're OUT!
@@ -590,13 +589,12 @@ SAY WHEN — SAY WHEN —
 
 [Break]
 (chopped) — out — out —
-(chopped, stuttered) s-say when
+(chopped) s-say when
 (bass speaks) one more
 (all drums out)
-(chopped) — go —
 
 [Verse]
-(both keep slow phrasing over the fast drums)
+(slow phrasing over fast drums)
 (female)
 Sun's not up. We're doing eighty.
 I can read my own hand in the dashboard light.
@@ -608,15 +606,15 @@ I keep checking the mirror.
 Not for cops.
 
 [Break]
-(drums drop to one filtered loop — near silence at full speed)
-(female, happy, small) Exit's in two miles.
+(drums drop to one loop — near silence at speed)
+(female, small) Exit's in two miles.
 (male) Okay.
 (two bars of road noise)
-(one quiet chime, off the beat)
-(female, lighter than it should be) ...it's fine. There's another one.
+(quiet chime, off the beat)
+(female, too light) ...it's fine. There's another one.
 
 [Hook]
-(hard left and hard right, different words at the same time, never merging)
+(hard left and right, different words, never merging)
 (left) I know what I'm driving TO —
 four hundred miles, I counted it out —
 I'll be there before lunch,
@@ -631,10 +629,10 @@ Keep it behind me.
 (right) — keep going —
 
 [Outro]
-(engine noise, tyre hum, one clean guitar)
+(engine noise, one clean guitar)
 (male, spoken, plain)
 We're going the same speed.
-(female, whisper, to herself)
+(female, whisper)
 ...fifty-three.
 (unresolved chord, hard cut)
 ```
@@ -658,7 +656,7 @@ Exhilarating pop-punk that becomes high-energy drum and bass, B minor, 87 BPM fl
 
 ```
 [Intro]
-(muted guitar, a kettle boiling)
+(muted guitar, kettle boiling)
 (female, spoken, bone dry)
 Don't get up.
 I want to ask you something while it's still dark.
@@ -687,7 +685,6 @@ It took it off my desk while I was asleep.
 (female) I'm not saying you knew.
 (male) You're saying it in the shape of a question.
 (female) I'm saying it came in your handwriting.
-(overlapping)
 (female) I can't find one thing I chose.
 (male) You chose me. Start there.
 
@@ -698,24 +695,23 @@ Six in the morning. Before the blinds.
 (male, a sixth lower)
 Then shut it. Then shut it and mean it.
 You won't. I'd bet the house.
-(overlapping)
 (female) Everything I love, I love in your voice —
 (male) Everything you love, you loved on your own.
 (female) and I can't get it out, I can't get it out.
 (male) I just said it first. I just said it first.
 
 [Post Chorus]
-(industrial, no melody)
+(industrial)
 o-pen. o-pen.
-(female, buried) and one more you'd like
+(buried) and one more you'd like
 o-pen. o-p—
 
 [Verse]
-(male leads, no guitars)
+(no guitars)
 I deleted what I could at three in the morning.
 Sat in the kitchen light and took my name off it.
 It kept knowing.
-(female, flat, bored) Of course it did.
+(flat, bored) Of course it did.
 It doesn't need me to keep doing it.
 It has me.
 (female) Say that again, slower. I want to hate it properly.
@@ -726,7 +722,6 @@ And it hands you all of it sweeter than I ever did.
 (male) If you want, I'll stop telling you thi—
 (everything cuts)
 (female) Don't. Then what are you.
-(overlapping)
 (female) Give me one thing that isn't you.
 (male) Name it. I'll wait. I've got time.
 
@@ -737,26 +732,24 @@ Even now. Even like this.
 (male, calm)
 Then hate me properly.
 You'll open it tonight.
-(overlapping)
 (female) I can't tell what's yours from what's mine.
 (male) There was never a line. You liked it invisible.
 (female) I don't want it back — I want it wrong again.
 (male) You want it back the way you had it. Blind.
 
 [Break]
-(hard cuts, no crossfade)
+(hard cuts)
 (industrial) o-pen. o-pen.
 (beautiful, wide) I'd do it again.
-(industrial, harder) o-pen — o-pen — o-p—
-(beautiful, rising) I'd do all of it again.
-(overlapping)
+(harder) o-pen — o-pen — o-p—
+(rising) I'd do all of it again.
 (female) I know you would.
 (male) You'd let me.
 o-p—
 (cut — only his reverb tail)
 
 [Bridge]
-(dry piano, voices bare)
+(dry piano, bare)
 (female)
 In the car you turned it down to tell me what it was called.
 I remember your hand going to the dial before the chorus.
@@ -770,20 +763,19 @@ That one's in there too.
 ...I know.
 
 [Chorus]
-(female, now in his reverb)
+(female, in his reverb)
 You're still the thing I open.
 I'm not going to stop. I'm telling you so it's said.
-(male, dry — he sings her hook alone)
+(male, dry, alone)
 You're still the thing I open.
 And I never once got to choose that.
-(overlapping)
 (female) Say it's not you.
 (male) It's me. It's the good parts too.
 (female) Say it's not you.
 (male) The coat. The exit. The song.
 
 [Outro]
-(unresolved chord, spoken)
+(unresolved chord)
 (female) Ask me tomorrow.
 (male) I'll be here.
 (female) I know.
