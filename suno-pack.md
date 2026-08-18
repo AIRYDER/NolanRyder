@@ -6,6 +6,12 @@ Suno reads bracketed direction, so the bracket tags are load-bearing here — ke
 
 Every style box is under the 1000-char limit. Each one carries three fixes measured from an earlier render analysis: explicit sub extension below 30 Hz, midrange body on lead vocals (the 250–500 Hz scoop is Suno's default tendency), and an explicit stereo-width instruction (default renders come back near-mono at ~0.9 L/R correlation).
 
+## Running order (updated after structure analysis)
+
+1 PERMAFROST · 2 SLINGSHOT · 3 NINE · 4 TAXIDERMY · 5 SMOKE DAMAGE · **6 GREENHOUSE** · **7 HALF LIFE** · 8 BALLAST
+
+GREENHOUSE now sits between the two slowest tracks: the felt-tempo run at the old 5-6 was 76 → 34 BPM back to back (the album's two most patient songs adjacent, right where listeners drop off). New felt-tempo run: 76 → 152 → 34 — the sunniest track becomes the breath between the two griefs, and HALF LIFE's slowness reads as a choice instead of a continuation.
+
 ---
 
 ## 1 — PERMAFROST
@@ -92,12 +98,13 @@ Dig me out.
 [LEAD A, barely audible]
 Say it again.
 
-[Final Chorus - THE DRUMLESS DROP, no percussion at all, wall of downtuned guitars and sub and six-voice choir of her, cut mid-word at the end]
+[Final Chorus - THE DRUMLESS DROP, no percussion at all, wall of downtuned guitars and sub and six-voice choir of her, the repeats piling up compulsively, cut mid-word on the fifth]
 Permafrost —
 nothing rots here, nothing grows.
 I keep every thing I froze
 perfect as the day it snowed.
 Permafrost —
+I'm fine down here, I'm fine down here,
 I'm fine down here, I'm fine down here,
 I'm fine down—
 
@@ -191,6 +198,8 @@ neither of us has been.
 [Outro - drums vanish mid-bar, engine pitch falls away to night air]
 Far side.
 ```
+
+*Deliberate title-stamp refusal, logged: the hook cell is "let it throw us"; the word "slingshot" appears exactly once, as a caption inside the chorus. Do not add more.*
 
 ---
 
@@ -384,7 +393,8 @@ I. Never. Died.
 [Final Chorus - fastest section, a gang of her own stacked voices]
 You liked me best with glass eyes,
 mid-leap, bolted beautiful.
-Hold still, hold still — sing it to the fixtures:
+Hold still, hold still, hold still, hold still, hold still —
+sing it to the fixtures:
 trophies don't get to want.
 But taxidermy, taxidermy
 only works on the dead —
@@ -403,7 +413,7 @@ Keep the plaque.
 **Style box**
 
 ```
-slow heavy grief anthem, 76 BPM, G minor, straight feel with no tempo flip anywhere, chorus loop opening off-tonic so it never lands, patient low grained male lead vocal delivered calm, clean guitar motif intro that is the only pristine audio in the song, wide slow half-note guitar walls voiced high, deep soft enormous toms, low strings, live bass with root-note patience, no synthesizers at all, his own voice an octave down mixed like a neighbor singing through a wall, production fidelity degrades as the arrangement grows with tape hiss and vinyl crackle and saturation and falling bit depth accumulating every section, final chorus is simultaneously the biggest and the most damaged audio, outro is only the pitched noise floor humming the melody after all instruments stop, storage-room tone, hymnal and burnt and devastating
+slow heavy grief anthem, 76 BPM, G minor, straight feel with no tempo flip anywhere, first chorus withheld until past the midpoint, chorus loop opening off-tonic so it never lands, patient low grained male lead vocal delivered calm, clean guitar motif intro that is the only pristine audio in the song, wide slow half-note guitar walls voiced high, deep soft enormous toms, low strings, live bass with root-note patience, no synthesizers at all, his own voice an octave down mixed like a neighbor singing through a wall, production fidelity degrades as the arrangement grows with tape hiss and vinyl crackle and saturation and falling bit depth accumulating every section, final chorus is simultaneously the biggest and the most damaged audio, outro is only the pitched noise floor humming the melody after all instruments stop, storage-room tone, hymnal and burnt and devastating
 ```
 
 **Exclude styles**
@@ -433,16 +443,6 @@ sunlight, windows, time.
 Sure.
 And what do I do with my hands?
 
-[Chorus - wide and soft-huge, sung calm, grit now audible on the drums]
-The fire's out.
-Been out for years.
-And everything I kept still smells like it —
-I could wash it clean.
-I don't.
-Some things you keep because they went through it.
-Smoke damage — it isn't damage
-if it's the only receipt.
-
 [Verse 2 - vinyl crackle joins the hiss, flattest possible delivery]
 The deposit came back short.
 "Two hundred for the smell," she said.
@@ -459,7 +459,7 @@ sunlight, windows, time.
 Sure.
 And what do I do with my hands?
 
-[Chorus - bigger and dirtier, bit depth audibly falling]
+[Chorus - the first chorus of the song, withheld until now, wide and soft-huge, sung calm, grit audible on the drums]
 The fire's out.
 Been out for years.
 And everything I kept still smells like it —
@@ -469,7 +469,7 @@ Some things you keep because they went through it.
 Smoke damage — it isn't damage
 if it's the only receipt.
 
-[Bridge - near silence, breath audible between lines]
+[Bridge - near silence, long pauses between lines]
 You can't air out a body.
 Lungs keep what they're given.
 Eleven years of breathing one address —
@@ -495,99 +495,7 @@ Still smells like it in here.
 
 ---
 
-## 6 — HALF LIFE
-
-**Style box**
-
-```
-slow ethereal doom-pop conflict duet, 68 BPM, E-flat minor, half-time throughout with no tempo flip, glass pads, pitched dosimeter clicks slowing across the song, near-whispered low male verses, ethereal female head voice against plain conversational female chest voice, lush grieving four-chord loop, the two singers deliver different lyrics simultaneously in every chorus and never harmonize on the same words, choruses shrink in length each time from long to a single line, climax is a massive downtuned half-time guitar wall in whole notes with a wordless soaring female topline above it and one fry-edged male confession underneath, guitar wall mutes for a half bar so her voice hangs alone, deep sub with real 30Hz weight, warm midrange body, very wide stereo, final line dry and mono and untreated, beautiful and radioactive and patient and enormous
-```
-
-**Exclude styles**
-
-```
-uplifting, cheerful, major key, fast tempo, EDM, festival, acoustic, orchestral pop, unison duet, call and response duet, thin bass, bright mix, busy drums
-```
-
-**Lyrics**
-
-```
-[Intro - slow dosimeter clicks, glass pad, the six-note motif stated whole]
-
-[Verse 1 - LEAD B male, near-whispered, two-chord bed, one camera-shutter breath]
-I lived like film in a canister.
-Anything luminous would ruin me —
-so nothing luminous got in.
-Years of that. Sealed and fine.
-Then you, like a lab accident:
-no flash, no siren,
-just everything after
-glowing
-a little.
-
-[Chorus - LONG, full lush loop, BOTH VOICES AT ONCE singing different words, his low and hers high and luminous]
-[LEAD B] Cut me in half again —
-[LEAD A] I'm not the cure.
-[LEAD B] half the ache, half the armor.
-[LEAD A] I'm just the light left on.
-[LEAD B] Do the thing where you exist
-[LEAD A] Stop counting.
-[LEAD B] and the count in me goes quiet.
-[LEAD A] Stop counting.
-[LEAD B] Half, and half, and half again —
-[LEAD A] I'm not the cure.
-[LEAD B] I know it never reaches zero.
-[LEAD A] I'm just the light left on.
-[LEAD B] Keep halving me anyway.
-[LEAD A] Stop counting.
-
-[Verse 2 - LEAD A female, register drops to plain conversational chest voice, clicks slow]
-You talk about me like an isotope.
-I'm a person in a kitchen.
-I ruin toast. I lose my keys.
-I cry at nothing on a Tuesday.
-I can't be your controlled exposure —
-I flinch, I tire, I leave rooms.
-Love me like weather, not like treatment.
-I don't want a patient.
-I had one.
-
-[Chorus - HALF THE LENGTH, same music, both voices still on their own words]
-[LEAD B] Cut me in half again —
-[LEAD A] I'm not the cure.
-[LEAD B] half the ache, half the armor.
-[LEAD A] I'm just the light left on.
-[LEAD B] I know it never reaches zero —
-[LEAD A] Stop counting.
-[LEAD B] keep halving me anyway.
-[LEAD A] Stop counting.
-
-[Bridge - nearly bare, his equation resumes, then the only interruption on the record]
-[LEAD B]
-They measure ruin in half-lives.
-So measure me in—
-[LEAD A]
-No.
-
-[THE DOOM BLOOM - massive downtuned guitar wall in whole notes, wall mutes every fourth half-bar so her voice hangs alone]
-[LEAD A, wordless, the six-note motif above everything]
-Ahh — ahh — ahh —
-[LEAD B, fry-edged, underneath, once, unanswered]
-It never reaches zero.
-
-[Chorus - QUARTER LENGTH, cut off mid-phrase]
-[LEAD B] Half, and half, and half again—
-[LEAD A] Stop count—
-
-[Chorus - ONE LINE ONLY, him alone, dry and centered and untreated, singing HER words]
-Stopped counting.
-
-[Outro - the clicks slow and slow and never quite stop, one struck low note, no words]
-```
-
----
-
-## 7 — GREENHOUSE
+## 6 — GREENHOUSE
 
 **Style box**
 
@@ -689,6 +597,98 @@ Meet me in the greenhouse.
 breathe in — hold it — let it go.
 
 [Outro - one exhale, misters, a single sprout-tick on the motif's top note, the latch clicks, no words]
+```
+
+---
+
+## 7 — HALF LIFE
+
+**Style box**
+
+```
+slow ethereal doom-pop conflict duet, 68 BPM, E-flat minor, half-time throughout with no tempo flip, glass pads, pitched dosimeter clicks slowing across the song, near-whispered low male verses, ethereal female head voice against plain conversational female chest voice, lush grieving four-chord loop, the two singers deliver different lyrics simultaneously in every chorus and never harmonize on the same words, choruses shrink in length each time from long to a single line, climax is a massive downtuned half-time guitar wall in whole notes with a wordless soaring female topline above it and one fry-edged male confession underneath, guitar wall mutes for a half bar so her voice hangs alone, deep sub with real 30Hz weight, warm midrange body, very wide stereo, final line dry and mono and untreated, beautiful and radioactive and patient and enormous
+```
+
+**Exclude styles**
+
+```
+uplifting, cheerful, major key, fast tempo, EDM, festival, acoustic, orchestral pop, unison duet, call and response duet, thin bass, bright mix, busy drums
+```
+
+**Lyrics**
+
+```
+[Intro - slow dosimeter clicks, glass pad, the six-note motif stated whole]
+
+[Verse 1 - LEAD B male, near-whispered, two-chord bed, one camera-shutter click]
+I lived like film in a canister.
+Anything luminous would ruin me —
+so nothing luminous got in.
+Years of that. Sealed and fine.
+Then you, like a lab accident:
+no flash, no siren,
+just everything after
+glowing
+a little.
+
+[Chorus - LONG, full lush loop, BOTH VOICES AT ONCE singing different words, his low and hers high and luminous]
+[LEAD B] Cut me in half again —
+[LEAD A] I'm not the cure.
+[LEAD B] half the ache, half the armor.
+[LEAD A] I'm just the light left on.
+[LEAD B] Do the thing where you exist
+[LEAD A] Stop counting.
+[LEAD B] and the count in me goes quiet.
+[LEAD A] Stop counting.
+[LEAD B] Half, and half, and half again —
+[LEAD A] I'm not the cure.
+[LEAD B] I know it never reaches zero.
+[LEAD A] I'm just the light left on.
+[LEAD B] Keep halving me anyway.
+[LEAD A] Stop counting.
+
+[Verse 2 - LEAD A female, register drops to plain conversational chest voice, clicks slow]
+You talk about me like an isotope.
+I'm a person in a kitchen.
+I ruin toast. I lose my keys.
+I cry at nothing on a Tuesday.
+I can't be your controlled exposure —
+I flinch, I tire, I leave rooms.
+Love me like weather, not like treatment.
+I don't want a patient.
+I had one.
+
+[Chorus - HALF THE LENGTH, same music, both voices still on their own words]
+[LEAD B] Cut me in half again —
+[LEAD A] I'm not the cure.
+[LEAD B] half the ache, half the armor.
+[LEAD A] I'm just the light left on.
+[LEAD B] I know it never reaches zero —
+[LEAD A] Stop counting.
+[LEAD B] keep halving me anyway.
+[LEAD A] Stop counting.
+
+[Bridge - nearly bare, his equation resumes, then the only interruption on the record]
+[LEAD B]
+They measure ruin in half-lives.
+So measure me in—
+[LEAD A]
+No.
+
+[THE DOOM BLOOM - massive downtuned guitar wall in whole notes, wall mutes every fourth half-bar so her voice hangs alone]
+[LEAD A, wordless, the six-note motif above everything]
+Ahh — ahh — ahh —
+[LEAD B, fry-edged, underneath, once, unanswered]
+It never reaches zero.
+
+[Chorus - QUARTER LENGTH, cut off mid-phrase]
+[LEAD B] Half, and half, and half again—
+[LEAD A] Stop count—
+
+[Chorus - ONE LINE ONLY, him alone, dry and centered and untreated, singing HER words]
+Stopped counting.
+
+[Outro - the clicks slow and slow and never quite stop, one struck low note, no words]
 ```
 
 ---
