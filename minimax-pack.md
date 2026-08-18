@@ -784,7 +784,7 @@ breathe in — hold it — let it go.
 **Field 1 — Global metadata**
 ```
 Basic Attributes: bpm is 72. key is C, and scale is minor. Heavy Through-Composed Crescendo.
-Global Emotional Progression: One unbroken build from beginning to end. It opens with a single voice, a rope creak and water, then adds exactly one new element every sixteen bars and never removes anything. There is no chorus and no repeated section — the form is a five-minute swell. Four fifths through, everything cuts away, leaving only voices and stamping feet. The full weight returns, larger, and the song ends on a hard cut to silence and one spoken line.
+Global Emotional Progression: One unbroken build from beginning to end. It opens with one voice, rope creak and water, then adds exactly one new element every sixteen bars and never removes anything. There is no chorus and no repeated section. Four fifths through, everything cuts away, leaving only voices and stamping feet. The full weight returns, larger, and the song ends on a hard cut to silence and one spoken line.
 Application Scenarios & Imagery: A loaded hull low in the water at night.
 Sonics & Production Profile: A continuous rise, no ducking, no relief. Deep sub, wide stereo, and a final spoken line that is dry, mono and noticeably quieter than what precedes it.
 ```
@@ -792,16 +792,16 @@ Sonics & Production Profile: A continuous rise, no ducking, no relief. Deep sub,
 **Field 2 — Vocal details**
 ```
 Vocal Gender & Timbre: Singer A (Male) leads — a low, grained, patient voice with rope in it. He never belts; he accumulates. Singer B (Female) appears only in the final minute, above the crew, never with a line of her own.
-Vocal Style: He begins alone and unaccompanied, worn, and stays low — his lines consistently resolve downward. A tired, genderless work crew joins partway through with call-and-response shouts and carries the a cappella section alone. At the end the female voice enters above them, on the high notes he never takes. The final line is spoken, not sung.
-Harmony/Backing Vocals: The crew is a large group of tired voices, deliberately not jolly, shouting short opposed monosyllables on beats one and three. Their harmonies at the end are the song's only sustained harmony.
+Vocal Style: He begins alone, worn, and stays low — his lines consistently resolve downward. A tired, genderless work crew joins partway through with call-and-response shouts and carries the a cappella section alone. At the end the female voice enters above them, on the high notes he never takes. The final line is spoken, not sung.
+Harmony/Backing Vocals: The crew is a large group of tired voices, deliberately not jolly, shouting short opposed monosyllables. Their harmonies at the end are the song's only sustained harmony.
 Vocal FX: Dry and close on the lead. The crew is roomy and recorded live. The final spoken line has no reverb at all.
 ```
 
 **Field 3 — Arrangement**
 ```
 Instrument Lifecycle (Primary/Secondary): Primary: one four-chord loop that never modulates or varies for the entire song. Secondary: elements enter one at a time and never leave — a low drone, a heartbeat kick, bass guitar, slow toms, then a downtuned chug wall. No synths but the drone, no solo. A five-note figure that lifts, settles and drops to a low resting note is the chug rhythm, the crew's melody and the final harmony.
-Groove & Foundation Progression: A slow swell densifying continuously; every sixteen bars adds one element and removes nothing. Bass and sub never overlap below 60 Hz. Four fifths through, all instruments cut away and the rhythm is carried by stamping feet and shouted voices. It returns at its largest and ends on a hard cut, no reverb tail.
-Embellishments, Textures & Spatial FX: Water against a hull throughout, a rope creak whose pitch falls across the song, gulls once, early.
+Groove & Foundation Progression: A slow swell densifying continuously, adding and never removing. Bass and sub never overlap below 60 Hz. Four fifths through, all instruments cut away and the rhythm is carried by stamping feet and shouted voices. It returns at its largest and ends on a hard cut, no reverb tail.
+Embellishments, Textures & Spatial FX: Water against a hull throughout, a rope creak whose pitch falls across the song, gulls once, early. One enormous sub swell crowns the peak of the full wall, and tired breath is audible between the crew calls.
 ```
 
 **Lyrics**
