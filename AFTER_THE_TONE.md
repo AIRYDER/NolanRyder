@@ -1,11 +1,12 @@
 # AFTER THE TONE
 
-A voicemail greeting recorded on a good day, played back to everyone who calls
-after the good days stop. The chorus is the greeting and it never changes. The
-verses are the messages, and they get quieter until nobody can leave one.
+A voicemail greeting a frontman recorded backstage with the band yelling behind
+him, played back to everyone who calls after he stops picking up. The chorus is
+the greeting and it never changes. The verses are the messages, and they get
+quieter until nobody can leave one.
 
-Sung by a male rock frontman. The greeting is his; every other voice in the song
-is a caller.
+Raw garage rock and punk-blues, recorded live in one room, no polish. Sung by a
+male rock frontman. Every other voice in the song is a caller.
 
 ---
 
@@ -18,86 +19,85 @@ After the Tone
 ## Suno — Style (fits the 1000-char limit)
 
 ```
-Bright driving arena rock / power-pop, 128 BPM, E major, sounds like a recording of a good day. Starts with two dry phone rings. Chorus: a huge glossy singalong led by a swaggering male rock frontman, confident raspy chest voice with grit, gang backing vocals, big bright guitars, punchy live drums, hand claps, pulsing bass, and it is IDENTICAL every time, same arrangement, same swagger, like a voicemail greeting played back, ending on one beep. Verses: the band drops out to a soft pulsing sequencer and a distant pad; each verse is a different caller leaving a message, phone-filtered, spoken-sung, each with its own real background: a loud party, a rehearsal room, amp humming, a kitchen with a TV, a car idling, then nothing. Callers get quieter as the song goes on while the chorus stays exactly as big. Near the end the greeting does not play: a flat synthetic system voice speaks alone, no music. Then the full band plays the chorus melody with no vocal and slowly fades.
+Raw dirty garage rock and punk-blues, 138 BPM, key of E, recorded live in one room, no polish. Fuzzed-out guitar riff, overdriven bass, loose slamming drums, tambourine, room bleed. Chorus: a cocky half-shouted singalong from a whiskey-rasp male rock frontman, slurred swagger, the band yelling gang shouts behind him like the greeting was recorded backstage, IDENTICAL every time, same take, same riff, like a voicemail greeting played back, ending on one beep. Verses: the band drops out to a single dirty bass pulse and quiet guitar feedback; each verse is a different caller leaving a message, phone-filtered, spoken, rough, each with its own real background: a loud party, a rehearsal room, a kitchen with a TV, a car idling, then nothing. Callers get quieter; the chorus stays exactly as loud. Near the end the greeting does not play: a flat synthetic system voice speaks alone, no music. Then the band plays the riff with no lead vocal, falls apart into feedback, and an amp clicks off.
 ```
 
 ## Suno — Exclude styles
 
 ```
-female lead vocals, EDM, dubstep, trap, hip hop, rap, autotune, screamo, growls, metal, acoustic, country, folk, lo-fi, ballad, slow, orchestral, choir, ambient, jazz, reggae
+pop, synth-pop, power-pop, polished, clean production, autotune, EDM, dubstep, trap, hip hop, rap, female lead vocals, acoustic, country, folk, ballad, slow, orchestral, choir, ambient, jazz, reggae, metalcore, screamo
 ```
 
 ## Suno — Lyrics
 
 ```
-[Intro - two dry phone rings, then the band slams in bright on the downbeat]
+[Intro - two dry phone rings, then a shouted count-in and the fuzzed riff slams in, live room, loose]
 
-[Chorus - THE GREETING: huge glossy singalong, swaggering male rock frontman, confident raspy chest voice, gang backing vocals, big bright guitars, punchy drums, hand claps; cocky, charming, a little goofy; ends on one voicemail beep]
-Hey! It's me. You know what to do.
-I'm out, I'm somewhere, I'm probably with you.
-So leave it after the tone
-and I'll get back to you.
-I'll get back, I'll get back, I'll get back to you.
+[Chorus - THE GREETING: cocky half-shouted singalong, whiskey-rasp male rock frontman, slurred swagger, the band yelling gang shouts behind him, fuzzed riff, slamming drums, tambourine; recorded backstage on a good night; ends on one voicemail beep]
+Yeah. It's me. You know what to do. (WHAT TO DO!)
+I'm out, I'm loaded, I'm probably with you.
+Leave it after the tone, I'll get back to you.
+I'll get back, I'll get back, I'll get back to you. (GET BACK!)
 
-[Verse 1 - CALLER: a friend, male, bright and casual, phone-filtered, spoken-sung, a loud party behind him; the band drops to a soft pulsing sequencer and a distant pad]
-Hey, it's me, we're at Dani's.
-Everybody's asking where you are.
-The girl with the dog is here. She asked.
-It's ten minutes. I'll wait outside.
-Okay. Okay. Bye.
+[Verse 1 - CALLER: a friend, male, loud and casual, phone-filtered, spoken, a party roaring behind him; the band drops out to a single dirty bass pulse and quiet guitar feedback]
+Yo. It's me. We're at Dani's.
+Everybody's asking where the hell you are.
+The girl with the dog's here. She asked twice.
+Ten minutes. I'm outside.
+Alright. Alright. Later.
 
-[Chorus - THE GREETING again, identical: same arrangement, same swagger, same voice, same beep]
-Hey! It's me. You know what to do.
-I'm out, I'm somewhere, I'm probably with you.
-So leave it after the tone
-and I'll get back to you.
-I'll get back, I'll get back, I'll get back to you.
+[Chorus - THE GREETING again, identical: same take, same riff, same shouts, same beep]
+Yeah. It's me. You know what to do. (WHAT TO DO!)
+I'm out, I'm loaded, I'm probably with you.
+Leave it after the tone, I'll get back to you.
+I'll get back, I'll get back, I'll get back to you. (GET BACK!)
 
-[Verse 2 - CALLER: a bandmate, male, gruff, flat, phone-filtered, a rehearsal room behind him, an amp humming, somebody tuning, the sequencer a little quieter]
-Hey. It's Marcus.
-You've missed three now. I covered Tuesday.
-Told them you had a thing.
-I can't tell them that on Friday.
+[Verse 2 - CALLER: a bandmate, male, gruff, fast, phone-filtered, spoken, a rehearsal room behind him, an amp humming, somebody hitting a snare, the bass pulse quieter]
+It's Marcus. Pick up.
+You missed three. I sang Tuesday. I can't sing.
+Told 'em you had a thing.
+I'm not telling 'em that Friday.
 Call me. Or don't. But Friday.
 
 [Short Chorus - THE GREETING, cut off: the caller skips to the beep after the first line, one beep]
-Hey! It's me. You know what to do —
+Yeah. It's me. You know what to do —
 
-[Verse 3 - CALLER: mother, female, warm, slower, phone-filtered, a kitchen, a TV in another room, the pad thinner]
+[Verse 3 - CALLER: mother, female, warm, slower, phone-filtered, spoken, a kitchen, a TV in another room, the feedback thinner]
 Hi, honey. It's your mother.
 It's nothing. Your dad says hi.
 I made too much again. I'll freeze it.
 It's nothing. Just call.
 It's nothing.
 
-[Chorus - THE GREETING, identical, full, as big as the first time, beep]
-Hey! It's me. You know what to do.
-I'm out, I'm somewhere, I'm probably with you.
-So leave it after the tone
-and I'll get back to you.
-I'll get back, I'll get back, I'll get back to you.
+[Chorus - THE GREETING, identical, full, as loud as the first time, beep]
+Yeah. It's me. You know what to do. (WHAT TO DO!)
+I'm out, I'm loaded, I'm probably with you.
+Leave it after the tone, I'll get back to you.
+I'll get back, I'll get back, I'll get back to you. (GET BACK!)
 
-[Verse 4 - CALLER: an ex, female, low and close, almost whispering, phone-filtered, a car idling and nothing else, the pad almost gone]
+[Verse 4 - CALLER: an ex, female, low and close, almost whispering, phone-filtered, spoken, a car idling and nothing else, the feedback almost gone]
 I drove past. Your light was on.
-I'm not asking anything.
+I'm not asking you anything.
 I sat there 'til it went off.
 It went off at two.
 I'm not asking.
 
 [Short Chorus - THE GREETING, cut off again after the first line, one beep]
-Hey! It's me. You know what to do —
+Yeah. It's me. You know what to do —
 
-[Verse 5 - CALLER: the friend again, male, quiet now, no party, late, phone-filtered, only the sequencer left, very soft]
-Hey. It's me again.
+[Verse 5 - CALLER: the friend again, male, quiet now, no party, late, phone-filtered, spoken, only the bass pulse left, very soft]
+Hey. Me again.
 Nobody's asking anymore.
 I am. I'm asking.
-The girl with the dog moved.
-Okay. Okay. Bye.
+Girl with the dog moved.
+Alright. Alright.
 
 [Break - THE GREETING DOES NOT PLAY. No music at all. A flat synthetic system voice, dry, unhurried, no beep after it]
 The mailbox is full and cannot accept any messages at this time.
 
-[Outro - instrumental: the full band returns at full size and plays the greeting's melody with no vocal at all, the hook carried by a bright guitar lead, hand claps, gang oohs allowed but no words, as big as the first time, then slowly fades out]
+[Outro - instrumental: the band comes back loud and plays the greeting riff with no lead vocal, the gang shouts still land in their spots but the lines between them are empty, loose and sloppy, then it falls apart into guitar feedback, then an amp clicks off. Silence.]
+(WHAT TO DO!)
+(GET BACK!)
 ```
 
 ---
@@ -106,191 +106,199 @@ The mailbox is full and cannot accept any messages at this time.
 
 ## The idea
 
-A frontman recorded a cocky, charming outgoing message when things were fine.
-Then he stopped picking up. Everyone who calls still gets the good day, in full,
-before the beep. The song is that mailbox: the greeting is the chorus and it
-cannot change, because it is a recording. All the story lives in the messages,
-and the messages get smaller and quieter until the last one, when the system
-refuses to take any more.
+A frontman recorded a cocky outgoing message backstage on a good night, loaded,
+with the band yelling behind him. Then he stopped picking up. Everyone who calls
+still gets the good night, in full, before the beep. The song is that mailbox:
+the greeting is the chorus and it cannot change, because it is a recording. All
+the story lives in the messages, and the messages get smaller and quieter until
+the last one, when the system refuses to take any more.
 
 The song never says what happened to him. His light is on. He's home. He doesn't
-call back. That is all anyone knows, and the song keeps it that way.
+call back. The word "loaded" in the greeting was a brag when he recorded it. The
+song lets you decide what it means by call four, and never says.
 
 ## What happens, in order
 
 | Call | Who | Where they are | What it tells you |
 |---|---|---|---|
-| 1 | A friend | A party, loud | It's early. The absence is a joke. "The girl with the dog is here." |
-| 2 | A bandmate | The rehearsal room, an amp humming | It's been a week or two. Somebody is covering, and Friday is a show. |
+| 1 | A friend | A party, roaring | It's early. The absence is a joke. "The girl with the dog's here. She asked twice." |
+| 2 | A bandmate | The rehearsal room, amp humming | He's missed three rehearsals. Marcus sang Tuesday. Marcus can't sing. Friday is a show. |
 | 3 | Mother | Her kitchen, TV in the next room | She says "it's nothing" three times. |
 | 4 | An ex | A car outside the apartment | The light is on. It goes off at two. He's home. |
-| 5 | The friend again | Nowhere, late, quiet | "Nobody's asking anymore. I am." The girl with the dog moved. |
+| 5 | The friend again | Nowhere, late, quiet | "Nobody's asking anymore. I am." The girl with the dog moved. He doesn't say "later." |
 | — | The system | — | The mailbox is full. Nobody can even leave a message now. |
 
-Between every call, the same big greeting. It is the only thing in the song that
-does not get worse.
+Between every call, the same loud greeting. It is the only thing in the song
+that does not get worse.
+
+## Sound
+
+- **Room:** one room, live, bleed everywhere. Drums loose and slamming, not
+  tight. Tambourine. Bass overdriven. Guitar fuzzed. Vocal on a handheld mic
+  with the band in the same room. If it sounds produced, it's wrong.
+- **Riff:** E – G – A, one-finger power chords with the open E string ringing,
+  minor-pentatonic dirt over a major-feeling chorus. The oldest move in rock and
+  roll, played like it's the first time.
+- **Voice:** whiskey rasp, half-shouted, slurred, grinning. He is showing off for
+  whoever calls. No strain, no melisma, no clean notes. He talks more than he
+  sings and it still sticks.
+- **Gang shouts:** the band, in the room, yelling "WHAT TO DO!" and "GET BACK!"
+  behind him. They are part of the recording. That matters later.
+- **The bed under the callers:** not a pad, not a sequencer. A single dirty bass
+  note pulsing on E, and his own guitar leaning on an amp somebody left on,
+  feeding back quietly. That is what plays under every message. It thins as the
+  song goes on, and at the very end somebody switches the amp off.
 
 ## Structure
 
-128 BPM, one bar ≈ 1.9 s.
+138 BPM, one bar ≈ 1.74 s.
 
 | Section | Bars | Voice | Backdrop | Energy | What changes |
 |---|---|---|---|---|---|
-| Intro | 2 | — | two dry rings | 2 | The rings are the count-in. |
-| Greeting 1 | 12 | Owner, male rock frontman | full band, glossy | 8 | The hook, complete, plus beep. |
-| Message 1 | 8 | Friend, bright | loud party, soft sequencer + pad | 4 | The band is gone. Only a pulse under the caller. |
-| Greeting 2 | 12 | Owner | full band, **identical** | 8 | Nothing. On purpose. |
-| Message 2 | 8 | Bandmate, gruff | amp hum + tuning, sequencer quieter | 3 | The background is the band without him. The bed thins. |
-| Greeting 3 (short) | 4 | Owner | full band, first line only | 7 | The caller skips to the beep. The band is cut off mid-bar. |
-| Message 3 | 8 | Mother, warm, slow | kitchen + distant TV, pad thinner | 2 | Slowest delivery in the song. |
-| Greeting 4 | 12 | Owner | full band, **identical** | 8 | Nothing. |
-| Message 4 | 8 | Ex, low, close | a car idling, pad almost gone | 1.5 | Closest mic in the song. Almost whispered. |
-| Greeting 5 (short) | 4 | Owner | full band, first line only | 7 | Skipped to the beep again. |
-| Message 5 | 8 | Friend, quiet | nothing but the sequencer, very soft | 1 | Same person as call 1. No party. |
+| Intro | 2 | count-in shout | two dry rings, then the riff | 3 | The rings are the count-in for the count-in. |
+| Greeting 1 | 12 | Frontman + gang | full band, live room | 9 | The hook, complete, plus beep. |
+| Message 1 | 8 | Friend, loud | party roar, bass pulse + feedback | 4 | The band is gone. Only the pulse and the hum under the caller. |
+| Greeting 2 | 12 | Frontman + gang | full band, **identical** | 9 | Nothing. On purpose. |
+| Message 2 | 8 | Bandmate, gruff, fast | amp hum + a snare hit, pulse quieter | 3 | The background is the band without him. |
+| Greeting 3 (short) | 4 | Frontman | full band, first line only | 8 | The caller skips to the beep. Riff cut mid-bar. |
+| Message 3 | 8 | Mother, warm, slow | kitchen + distant TV, feedback thinner | 2 | Slowest delivery in the song. The only proper voice in it. |
+| Greeting 4 | 12 | Frontman + gang | full band, **identical** | 9 | Nothing. |
+| Message 4 | 8 | Ex, low, close | a car idling, feedback almost gone | 1.5 | Closest mic in the song. Almost whispered. |
+| Greeting 5 (short) | 4 | Frontman | full band, first line only | 8 | Skipped to the beep again. |
+| Message 5 | 8 | Friend, quiet | nothing but the bass pulse, very soft | 1 | Same person as call 1. No party. No "later." |
 | Refusal | ~3 | System voice | **no music** | 0 | The greeting does not play. |
-| Outro | 16 + fade | **no voice** | full band, big | 8 | The hook melody with the singer removed. |
+| Outro | 16 + feedback | Gang shouts only | full band, loud, sloppy | 9 → 0 | The riff with the frontman's lines empty. Falls apart. Amp clicks off. |
 
-Runtime ≈ 3:20.
-
-The shape, drawn: the choruses are a flat line at the top, the verses are a
-staircase down to zero, and the outro is the flat line again with a hole where
-the voice was.
+Runtime ≈ 3:10.
 
 ```
-greeting  8 ────    ────    ──    ────    ──          ────▸ fade
+greeting  9 ────    ────    ──    ────    ──          ────╲ feedback, click
 verse         4       3       2       1.5    1     0
 ```
 
 ## The greeting (hook design)
 
-- **Chords:** E – G#m – A – B. The iii chord is what makes it sound like a sunny
-  day rather than a jingle, and E is where the guitars ring.
-- **Melody:** "Hey! It's me" opens high and lands, "you know what to do" falls
-  conversationally, "I'm probably with you" lifts on "with," and "I'll get BACK
-  to you" leaps up on "back" and stays up, three times. The last "to you" is the
-  highest note in the song, and the gang comes in on it.
-- **The voice:** a frontman recording a greeting between soundcheck and doors.
-  Cocky, warm, grinning, a bit of rasp, no strain. He is showing off a little for
-  whoever might call. That is what makes the recording hurt later: it was made
-  by someone who assumed people would always be calling.
-- **The turn:** "I'm probably with you." When it was recorded, the joke was that
-  whoever's calling is probably standing next to him. By call 4 it's the saddest
-  line in the song, and the recording still delivers it with a grin because the
+- **"Yeah. It's me. You know what to do."** Opens flat and cocky, spoken more
+  than sung, the gang answers "WHAT TO DO!" like they've heard him say it a
+  hundred times.
+- **"I'm out, I'm loaded, I'm probably with you."** The two turns in the song,
+  both brags when recorded. "Loaded" is a good night. "Probably with you" is a
+  joke: whoever's calling is probably standing next to him. By call four,
+  neither line is funny, and the recording still grins through both because the
   recording doesn't know.
-- **The rule:** every full greeting is the same take, same arrangement, same
-  level, same beep. No added harmonies on the second one, no key change on the
-  last one, no lyric variation ever. If a chorus grows, the concept dies.
+- **"Leave it after the tone, I'll get back to you."** The one line that rises.
+  Then "I'll get back" three times, each one shoved harder, and the gang lands
+  "GET BACK!" on the last.
+- **The rule:** every full greeting is the same take, same riff, same shouts,
+  same level, same beep. No extra harmony on the second, no lift on the last, no
+  lyric change ever. If a chorus grows, the concept dies.
 - **The short greeting:** twice, a caller skips ahead after the first line. The
-  band is cut mid-bar by the beep. This is the only arrangement variation the
-  greeting is allowed, and it's diegetic: people who've heard it a hundred times
-  press through.
-- **The beep:** one, dry, same pitch every time (tune it to the fifth, B). It is
-  the hinge between the big world and the small one, and it should be the only
-  thing that survives from the chorus into the verse.
+  riff is cut mid-bar by the beep. People who've heard it a hundred times press
+  through.
+- **The beep:** one, dry, same pitch every time (tune it to B, the fifth). It is
+  the hinge between the loud room and the small one.
 
 ## The callers
 
-Each message is a different person in a different room, phone-filtered, spoken
-more than sung. The band never plays under a message. What plays under them is a
-**bed**: a soft sequenced pulse on C# (the relative minor root) and a distant pad
-drifting C#m → A. Same key as the greeting, sadder from underneath.
-
-The bed gets thinner with every call. That is the whole dynamic arc of the song:
+Each message is a different person in a different place, phone-filtered, spoken.
+The band never plays under a message. What plays under them is the **bed**: the
+dirty bass pulse on E and the guitar feeding back on the amp he left on. The bed
+gets thinner with every call:
 
 1. **Friend at the party:** the loudest background in the song and the lightest
-   message. Sequencer and pad at their fullest.
-2. **Bandmate at rehearsal:** an amp humming, somebody tuning up, a kick drum
-   being tested. Sequencer down a step. The delivery is flat and fast, a man who
-   doesn't like leaving messages. "Friday" is a show.
-3. **Mother in the kitchen:** TV through a wall. Pad thinner. Slowest delivery.
-   "It's nothing" is said three times and means the opposite each time.
-4. **Ex in the car:** engine idling, nothing else. Pad almost gone. Closest mic,
-   lowest voice, near whisper. This is the message that tells you he's home.
-5. **Friend, later:** no background at all. Only the sequencer, barely. Same voice
-   as call 1, and the difference between the two is the story.
+   message. Rough, casual, "where the hell you are." Pulse and feedback at their
+   fullest. He signs off "Alright. Alright. Later."
+2. **Marcus at rehearsal:** amp hum, someone hitting a snare. Fast, gruff, a man
+   who hates leaving messages. "I sang Tuesday. I can't sing." is the funniest
+   line in the song and the first one with a cost in it.
+3. **Mother in the kitchen:** TV through a wall. The only proper-sounding voice
+   on the record, and she should stay proper. "It's nothing" three times, meaning
+   the opposite each time.
+4. **Ex in the car:** engine idling, nothing else. Closest mic, lowest voice,
+   near whisper. This is the message that tells you he's home.
+5. **Friend, later:** no background. Only the pulse, barely. Same voice as call
+   1, and he doesn't say "later" this time. That missing word is the saddest
+   thing a friend says in the song.
 
-The callers' voices should be distinct from each other and from the owner. The
-owner is the only person who ever sings a melody. Everyone else talks.
+The frontman is the only person who ever sings anything. Everyone else talks.
 
 ## Transitions
 
-- **Rings → Greeting 1.** Two dry rings, no music, then the band slams in on the
-  downbeat of the greeting. The rings are the count-in; there is no drum fill.
+- **Rings → Greeting 1.** Two dry rings, no music, then a shouted count-in and
+  the riff slams in. No fill.
 - **Greeting → Message.** The beep. The band stops dead on it, no reverb tail,
-  and the caller's first word arrives right after, already phone-filtered, with
-  the bed already running underneath. The cut from glossy to tiny should feel
-  like a line connecting.
-- **Message → Greeting.** No transition. The caller hangs up ("Bye.", "Friday.",
-  "It's nothing.", "I'm not asking.") and the greeting slams in on the next
-  downbeat like a new call. No riser, no fill, ever. The abruptness is the
-  mechanism.
-- **Short greetings.** The band is cut off mid-bar by the beep after "what to
-  do—". The next caller starts immediately.
-- **Message 5 → Refusal.** The sequencer stops. True silence. The system voice
+  and the caller's first word lands right after, already phone-filtered, with
+  the pulse and feedback already running underneath.
+- **Message → Greeting.** No transition. The caller hangs up ("Later.",
+  "Friday.", "It's nothing.", "I'm not asking.") and the riff slams in on the
+  next downbeat like a new call. No riser, no fill, ever.
+- **Short greetings.** Riff cut mid-bar by the beep after "what to do—". Next
+  caller starts immediately.
+- **Message 5 → Refusal.** The pulse stops. True silence. The system voice
   speaks with no music, no filter, no beep after it.
-- **Refusal → Outro.** After the system voice finishes, one beat of nothing, then
-  the full band returns at full size and plays the greeting with the vocal
-  removed. The hook melody on a bright guitar lead. Hand claps. Gang oohs are
-  fine, words are not. The listener has heard the words five times and will
-  supply them.
-- **Ending.** A slow fade. The greeting is still playing somewhere for nobody.
+- **Refusal → Outro.** One beat of nothing, then the band comes back loud and
+  plays the greeting riff. The gang still yells "WHAT TO DO!" and "GET BACK!" in
+  their spots. The lines between the shouts are empty. It gets sloppier, then
+  falls apart into guitar feedback, and then somebody switches the amp off.
+  Click. Silence.
+- **Ending.** The click is the last sound. It's the same thing that happened to
+  his light at two.
 
-## Lyric notes: what was cut and why
+## Lyric notes: what changed from the first draft and why
 
-- Cut a bridge where he speaks ("I'm here. I'm just not—"). It answered the only
-  question the song has.
-- Cut a hospital caller ("they said you'd want to know"). It settled the story
-  toward tragedy. The ex's message replaces it: the light is on, he's home, and
-  that's worse and less certain.
-- Cut "I miss you" from the ex's message. Replaced with "I sat there 'til it went
-  off. / It went off at two." The time is what a person would actually say.
-- Changed the greeting's second line from "I'm living my life" to "I'm out, I'm
-  somewhere, I'm probably with you." The first was a slogan. The second is a joke
-  that turns.
-- Kept "You know what to do" over cockier options ("you know the drill"). The
-  swagger belongs in the delivery, not the words; the words should be what a
-  greeting actually says.
-- Cut a beep after the system message. A full mailbox doesn't beep. Nobody gets
-  to speak after it.
-- Cut a final greeting with changed words ("I won't get back to you"). Decoded
-  the whole song in one line. The voiceless outro does the same job without
-  saying it.
-- Kept "The girl with the dog moved." It's the only line that measures time, and
-  it does it with a dog.
+- The first draft was a glossy, polite, new-wave song. It was too pop, too easy,
+  too proper. Everything below is what fixing that meant.
+- "Hey! It's me" became "Yeah. It's me." A rockstar doesn't say hey to a machine.
+- "I'm out, I'm somewhere" became "I'm out, I'm loaded." A brag with a second
+  reading the song never confirms.
+- Added the band yelling behind him. The greeting was recorded backstage with
+  people around, which is why the empty outro works: the people are still there.
+- The friend now says "where the hell you are," "She asked twice," "I'm outside."
+  Friends of a frontman don't talk like a greeting card.
+- Marcus got "Pick up." and "I sang Tuesday. I can't sing." The band is real now.
+- The friend's sign-off "Alright. Alright. Later." loses its "Later." on the last
+  call. Nothing else in that message changed.
+- The mother stayed exactly as proper as she was. She is the contrast.
+- The bed under the callers went from a synth sequencer and pad to a bass pulse
+  and his own guitar feeding back. The pad was the pop.
+- The outro went from a slow fade to feedback and an amp switching off. Fades are
+  for songs that want to be liked.
+- Still cut: a bridge where he speaks, a hospital caller, "I miss you" from the
+  ex, a beep after the system message, and a final greeting with changed words.
+  Each one answered a question the song is better off not answering.
 
 ## Suno risks and fixes
 
-- **Voices blur between callers.** The tags give each caller a gender, delivery
-  and background. If the model still uses one voice, run the callers as a single
-  phone-filtered narrator; the backgrounds and the shrinking bed still carry the
+- **It comes out clean anyway.** The exclude list now names pop, synth-pop,
+  power-pop, polished and clean production. If it's still glossy, add "lo-fi
+  garage, tape saturation, live bootleg" to the style and regenerate.
+- **The gang shouts get sung pretty.** The tags say yelling. If they come out as
+  harmonies, cut them from the chorus and keep them only in the outro, where they
+  matter most.
+- **Voices blur between callers.** Each tag gives gender, delivery and
+  background. If the model uses one voice, run the callers as a single
+  phone-filtered narrator; the backgrounds and the thinning bed still carry the
   arc. See Novel Idea 4 for the stronger fix.
 - **The female callers get suppressed by the exclude list.** The exclude says
-  "female lead vocals," not "female vocals," so the mother and the ex should
-  survive. If they come out male, drop "female lead vocals" from the exclude
-  list; the style prompt already fixes the lead as a male frontman.
-- **The choruses drift (added harmonies, a bigger last one).** The style prompt
-  and every chorus tag say identical. If it still grows, see Novel Idea 4: copy
-  the first chorus over the others in post.
-- **No beep gets generated.** Add one in post; a single sine at B, 0.3 s, dry.
-- **The refusal gets music under it.** The tag says no music at all. If the model
-  pads it, mute the bed in post; that six seconds has to be dry.
-- **The outro gets words.** The tag allows oohs and forbids words. If it sings the
-  hook, take the second half of the outro from a regeneration or mute the vocal
-  stem.
-- **The short choruses come out as full ones.** Acceptable. The song survives with
-  five full greetings; it just loses one nice detail.
+  "female lead vocals," not "female vocals." If the mother or the ex come out
+  male, drop that entry; the style already pins the lead as a male frontman.
+- **The choruses drift.** Every chorus tag says identical. If they grow, see
+  Novel Idea 4: copy the first chorus over the others in post.
+- **No beep, or no amp click.** Add them in post. A sine at B, 0.3 s, dry. A
+  relay click and the hum dying.
+- **The outro gets lead vocals.** The tag says gang shouts only. If he sings the
+  hook, mute the lead in the outro or take it from a regeneration.
 
 ## Three experiments
 
-1. Darker outro: instead of the full band, the greeting melody played back
-   through the phone filter, tiny, mono, like someone listening to the recording
-   in a quiet room. Loses the singalong, gains the ache.
-2. A sixth caller before the refusal: the owner, calling his own number to hear
+1. Meaner outro: no band at all. Just the feedback, alone, for twenty seconds,
+   then the click. Loses the gang, gains the room.
+2. A sixth caller before the refusal: the frontman calling his own number to hear
    the greeting. Rejected for the main version because it decodes too much, but
-   it's a real thing people do.
-3. Record the greeting with crowd noise behind it, like it was made backstage on
-   a show night, so the good day is audibly a show. Every later message is then
-   someone calling a man who used to have a crowd.
+   it's a real thing people do at two in the morning.
+3. Put a crowd behind the greeting, faint, like it was recorded side-stage with
+   the doors open. Every later message is then someone calling a man who used to
+   have a crowd.
 
 ---
 
@@ -305,11 +313,10 @@ Standard: choruses get bigger each time; the last one adds harmonies, a key lift
 a lyric change.
 
 Novel: the chorus is a voicemail greeting. It is the same take every time, at the
-same level, with the same beep, five times, because a recording cannot know
-what's changed. All the development is pushed into the verses, which shrink from
-a party to a car to silence. The dynamic curve is upside down: the loudest thing
-in the song is the one thing that never moves, and the story is told entirely by
-what gets quieter around it.
+same level, with the same shouts and the same beep, five times, because a
+recording cannot know what's changed. All the development is pushed into the
+verses, which shrink from a party to a car to silence. The loudest thing in the
+song is the one thing that never moves.
 
 ### Novel Idea 2 — The form is the phone system
 
@@ -317,41 +324,48 @@ Standard: verse, pre, chorus, verse, pre, chorus, bridge, chorus.
 
 Novel: ring → greeting → beep → message → greeting → beep → message. The song's
 structure is the protocol. The only permitted variation is the one the protocol
-allows: a caller pressing through the greeting to the beep, which gives two
-short choruses that are cut off mid-bar. The listener is never told they are
-inside a mailbox; the shape tells them.
+allows: a caller pressing through the greeting to the beep, which gives two short
+choruses cut off mid-bar.
 
-### Novel Idea 3 — The last chorus is refused, then played without its singer
+### Novel Idea 3 — The last chorus is refused, then the band plays it around a hole
 
 Standard: a final chorus, biggest of all, usually with the words changed.
 
-Novel: where the fifth full chorus should be, a flat system voice says the
-mailbox is full, with no music. Then the band plays the greeting with the vocal
-deleted. By that point the listener knows every word, so the missing voice gets
-supplied by whoever is listening. The song ends with the audience singing a
-greeting for a frontman who isn't picking up.
+Novel: where the fifth chorus should be, a flat system voice says the mailbox is
+full, with no music. Then the band comes back and plays the riff with the gang
+still yelling their parts and the frontman's lines empty. The people who were in
+the room when he recorded it are still doing their bit. He isn't. It falls apart
+and somebody turns the amp off.
 
 ### Novel Idea 4 — Build it the way a mailbox is built: from separate recordings
 
 Standard: one generation, hope the voices and the identical choruses hold.
 
 Novel: generate the greeting once and copy that exact audio into every full
-chorus position in post. Generate each caller as its own short clip (Extend from
-the beep, or a separate short generation with just that caller's tag and lines)
-and cut them in. Phone filtering hides every seam, and hard edits between
-sections are not a compromise here: a mailbox literally is separate recordings
-spliced together with beeps. The concept makes the cheapest production method
-the most authentic one.
+chorus position in post. Generate each caller as its own short clip and cut them
+in. Phone filtering hides every seam, and hard edits are not a compromise here: a
+mailbox is separate recordings spliced together with beeps.
+
+### Novel Idea 5 — The bed under the callers is his guitar
+
+Standard: a pad or a sequencer holds the key under quiet verses.
+
+Novel: what plays under every message is a bass note and his own guitar, leaning
+on an amp nobody turned off, feeding back quietly. It thins with every call
+because nobody's touching it. The song ends when somebody finally switches that
+amp off, which is the same sound as his light going out at two. The bed is a
+character, and it's the only trace of him after the greeting.
 
 ---
 
 ## What the listener should feel
 
-Two rings, then a burst of swagger: a frontman on a good day telling you to leave
-a message, grinning, and you believe him. Then a small voice at a party asks where
-he is. The swagger again, exactly the same. A bandmate who can't cover Friday.
-The swagger, cut short. A mother saying it's nothing. The swagger. Someone in a
-car watching his light go off at two. The swagger, cut short. The friend from the
-party, alone now, still asking. And then, where the swagger should be, a machine
-saying the mailbox is full, and silence. Then the band plays the good day again
-with nobody singing it, and you realise you know all the words.
+Two rings, a shout, and a room full of noise: a frontman on a good night telling
+you to leave a message, loaded and grinning, the band yelling behind him, and you
+believe him. Then a friend at a party asking where the hell he is. The noise
+again, exactly the same. Marcus, who sang Tuesday and can't sing. The noise, cut
+short. A mother saying it's nothing. The noise. Someone in a car watching his
+light go off at two. The noise, cut short. The friend from the party, alone now,
+not saying later. Then, where the noise should be, a machine saying the mailbox is
+full, and silence. Then the band plays the riff and yells their parts around the
+place where he used to be, until it falls apart, and somebody turns the amp off.
