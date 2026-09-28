@@ -9,10 +9,10 @@ The lyric drives the flip. In part one the narrator holds back ("I don't wanna c
 
 ---
 
-## Style / Production Prompt, one-shot (911 chars, fits the 1000-char limit)
+## Style / Production Prompt, one-shot (966 chars, fits the 1000-char limit)
 
 ```
-Two-part genre-flip song. Part one: laid-back indie-pop funk strut, 87 bpm, F# minor four-chord loop, rubbery melodic bassline, clean chorused guitar licks, tight dry drums, handclaps on 2 and 4, finger snaps, breezy male falsetto lead, cheeky conversational verses, stacked ooh harmonies, warm analog synth, vintage tape warmth. Then a fakeout: the song strips down like it is ending, one beat of dead silence, then an abrupt brutal switch: tape stop into a massive distorted guitar hit, an intense accelerating build-up with snare roll doubling speed, white-noise riser and climbing sirens, into fast 174 bpm electro-rock drum and bass: overdriven power-chord guitars locked with growling reese bass, punchy breakbeats, gang shouts, chopped pitched-up falsetto samples, belted male lead. Energy never resets: every section louder and brighter, key lifts, no breakdowns, only one-beat gaps. Ends on a hard cut.
+Two-part genre-flip song. Part one: laid-back indie-pop funk strut, 87 bpm, F# minor four-chord loop, rubbery melodic bassline, clean chorused guitar licks, tight dry drums, handclaps on 2 and 4, finger snaps, breezy male falsetto lead, cheeky conversational verses, stacked ooh harmonies, warm analog synth, vintage tape warmth. Then a fakeout: the song strips down like it is ending, one beat of dead silence, then an abrupt brutal switch: tape stop into a massive distorted guitar hit, an intense accelerating build-up with snare roll doubling speed, white-noise riser and climbing sirens, into fast 174 bpm electro-rock drum and bass: overdriven power-chord guitars locked with growling reese bass, punchy breakbeats, gang shouts, chopped pitched-up falsetto samples, belted male lead. Energy never resets: an endless Shepard-tone riser climbs under every drop, every section louder and brighter, key lifts, no breakdowns, only one-beat gaps. Ends on a hard cut.
 ```
 
 **Exclude styles:** `lo-fi, ballad, country, orchestral, trap`
@@ -21,7 +21,7 @@ Two-part genre-flip song. Part one: laid-back indie-pop funk strut, 87 bpm, F# m
 
 ---
 
-## Lyrics (3,827 chars, under the 5,000-char limit)
+## Lyrics (3,954 chars, under the 5,000-char limit)
 
 ```
 [Intro - clean funky guitar lick, finger snaps, rubbery bass walks in, laid-back strut]
@@ -94,7 +94,7 @@ Too strong, too strong, too strong, too strong
 A hundred things I wanna say, I'm saying every one
 Too strong, too strong, too strong, too...
 
-[Drop - 174 bpm electro-rock drum and bass, distorted guitars locked with growling bass, gang shouts, chopped pitched-up falsetto]
+[Drop - 174 bpm electro-rock drum and bass, distorted guitars locked with growling bass, endless Shepard-tone riser underneath, gang shouts, chopped pitched-up falsetto]
 (COME ON!)
 (TOO STRONG!)
 too-too-too strong
@@ -107,13 +107,13 @@ Runway lights on, I'm coming in now
 I was cool as the ice, now the ice is on fire
 Every line I swallowed coming back up higher
 
-[Build-Up 2 - no breakdown, snare roll accelerating again, riser keeps climbing]
+[Build-Up 2 - no breakdown, snare roll accelerating again, Shepard-tone riser keeps climbing]
 Too much? (TOO MUCH!)
 Too loud? (TOO LOUD!)
 Too fast? (TOO FAST!)
 Too... (STRONG!)
 
-[Drop 2 - key change up, heavier and brighter, faster fills, chopped falsetto stutters]
+[Drop 2 - key change up, heavier and brighter, faster fills, Shepard-tone riser still climbing, chopped falsetto stutters]
 (COME ON!)
 (TOO STRONG!)
 save a little room, room, room
@@ -126,7 +126,7 @@ And I'm not looking away
 I got a hundred things I wanna say
 And I'm NOT! LOOKING! AWAY!
 
-[Final Drop - highest energy of the song, the falsetto chorus melody returns belted over the drum and bass, everything maxed]
+[Final Drop - highest energy of the song, the falsetto chorus melody returns belted over the drum and bass, Shepard-tone riser climbing to the cut, everything maxed]
 I DON'T WANNA COME ON TOO STRONG
 (YES I DO!)
 SO I'LL KICK THE DOOR AND SCREAM ALONG
@@ -157,10 +157,10 @@ Laid-back indie-pop funk strut, 87 bpm, F# minor four-chord loop, rubbery melodi
 
 Exclude: `distorted guitar, drum and bass, metal, EDM`
 
-**Generation 2: the flip.** Choose **Extend** on your best take of generation 1 and set the extend point just after "nah." Paste the lyrics from `[Abrupt Switch ...]` down to the end. Use this style (545 chars):
+**Generation 2: the flip.** Choose **Extend** on your best take of generation 1 and set the extend point just after "nah." Paste the lyrics from `[Abrupt Switch ...]` down to the end. Use this style (600 chars):
 
 ```
-Explosive electro-rock drum and bass, 174 bpm, G# minor. Opens with a tape stop and one massive distorted guitar and sub hit, then an intense accelerating build-up: snare roll doubling speed, white-noise riser, climbing sirens. Relentless drops: overdriven power-chord guitars locked with growling reese bass, punchy rolling breakbeats, gang shouts, chopped pitched-up male falsetto samples, belted male lead. Energy never resets: every section louder and brighter than the last, key lifts, no breakdowns, only one-beat gaps. Ends on a hard cut.
+Explosive electro-rock drum and bass, 174 bpm, G# minor. Opens with a tape stop and one massive distorted guitar and sub hit, then an intense accelerating build-up: snare roll doubling speed, white-noise riser, climbing sirens. Relentless drops: overdriven power-chord guitars locked with growling reese bass, punchy rolling breakbeats, gang shouts, chopped pitched-up male falsetto samples, belted male lead. Energy never resets: an endless Shepard-tone riser climbs under every drop, every section louder and brighter than the last, key lifts, no breakdowns, only one-beat gaps. Ends on a hard cut.
 ```
 
 Exclude: `funk, disco, acoustic, lo-fi, ballad`
@@ -184,11 +184,42 @@ These numbers come from analysing both uploaded files. They are why the prompt s
 
 ---
 
-## Novel Idea: the Shepard-tone drop
+## Novel Idea: the Shepard-tone drop (now in the prompts, plus a real stem)
 
-A Shepard tone is an audio illusion: a stack of rising pitches that sounds like it goes up forever without ever getting higher. Putting one under part two makes the listener feel it is still building even during a drop that has already peaked. That is Overkill's escalation turned into a literal effect.
+A Shepard tone is an audio illusion: a stack of rising pitches that sounds like it goes up forever without ever getting higher. Under part two it makes the listener feel the song is still building even during a drop that has already peaked. That is Overkill's escalation turned into a literal effect.
 
-To try it, add `endless Shepard-tone riser under every drop` to the part-two style. In the one-shot, swap it in for `key lifts` to stay under 1000 characters. Suno might ignore the phrase or render it as a plain riser. When it works, the drops never feel like they level off.
+It is now in both part-two style prompts ("an endless Shepard-tone riser climbs under every drop") and in the Drop, Build-Up 2, Drop 2 and Final Drop tags. To go back to the version without it, delete that phrase from the style and the tags.
+
+Suno may ignore the phrase or render it as an ordinary riser. So there is also a real one in `stems/`, made with `make_shepard_riser.py`:
+
+| File | What it is |
+|---|---|
+| `shepard_riser_174bpm_Gsharp_16bars.wav` | 16 bars at 174 bpm (22.07 s), 24-bit, loops seamlessly |
+| `shepard_riser_174bpm_Gsharp_16bars.mp3` | The same file, for quick listening on a phone |
+| `shepard_riser_spectrogram.png` | Picture of every partial climbing without a break |
+
+**How it is built:**
+
+- Sine voices an octave apart on G#, with a quieter stack on the D# fifth, so it reads as a power chord in the drop key.
+- A layer of noise shaped to glide up the same way, so it whooshes like a normal riser.
+- Every partial climbs one octave every 4 bars.
+- A slight dip on every beat so it pumps with the drums.
+- High-passed at 180 Hz so it stays out of the reese bass.
+
+**Checks run on the file:**
+
+- The tracked pitch rose in all 392 analysis frames and never fell.
+- Average brightness stayed at 1888 to 1893 Hz in each 4-bar cycle.
+- The loop point and cycle joins are no bigger than ordinary sample-to-sample steps, so there are no clicks.
+
+**Using it:**
+
+1. Export your Suno take, or open it in Suno Studio, BandLab, GarageBand or any editor with tracks.
+2. Put the WAV's start on the first downbeat of the Drop and loop it through the Final Drop.
+3. Cut it exactly at the hard cut.
+4. Set it about 10 to 14 dB under the mix. You should feel it more than hear it.
+
+If Suno's drop drifts off 174 bpm, time-stretch the stem to match. Because it loops, it can run for any length.
 
 ## Novel Idea: the part-one hook comes back inside the drops
 
