@@ -9,10 +9,10 @@ The lyric drives the flip. In part one the narrator holds back ("I don't wanna c
 
 ---
 
-## Style / Production Prompt, one-shot (966 chars, fits the 1000-char limit)
+## Style / Production Prompt, one-shot (983 chars, fits the 1000-char limit)
 
 ```
-Two-part genre-flip song. Part one: laid-back indie-pop funk strut, 87 bpm, F# minor four-chord loop, rubbery melodic bassline, clean chorused guitar licks, tight dry drums, handclaps on 2 and 4, finger snaps, breezy male falsetto lead, cheeky conversational verses, stacked ooh harmonies, warm analog synth, vintage tape warmth. Then a fakeout: the song strips down like it is ending, one beat of dead silence, then an abrupt brutal switch: tape stop into a massive distorted guitar hit, an intense accelerating build-up with snare roll doubling speed, white-noise riser and climbing sirens, into fast 174 bpm electro-rock drum and bass: overdriven power-chord guitars locked with growling reese bass, punchy breakbeats, gang shouts, chopped pitched-up falsetto samples, belted male lead. Energy never resets: an endless Shepard-tone riser climbs under every drop, every section louder and brighter, key lifts, no breakdowns, only one-beat gaps. Ends on a hard cut.
+Two-part genre-flip song. Part one: laid-back indie-pop funk strut, 87 bpm, F# minor four-chord loop, rubbery melodic bassline, clean chorused guitar licks, tight dry drums, handclaps on 2 and 4, finger snaps, breezy male falsetto lead, cheeky conversational verses, stacked ooh harmonies, warm analog synth, vintage tape warmth. Then a fakeout: the song strips down like it is ending, one beat of dead silence, then an abrupt brutal switch: tape stop into a massive distorted guitar hit, an intense accelerating build-up with snare roll doubling speed, white-noise riser and climbing sirens, into fast 174 bpm electro-rock drum and bass: overdriven power-chord guitars locked with growling reese bass, punchy breakbeats, gang shouts, chopped pitched-up falsetto samples, belted male lead. Energy never resets: an endless Shepard-tone riser that never peaks climbs under every drop, every section louder and brighter, key lifts, no breakdowns, only one-beat gaps. Ends on a hard cut.
 ```
 
 **Exclude styles:** `lo-fi, ballad, country, orchestral, trap`
@@ -21,7 +21,7 @@ Two-part genre-flip song. Part one: laid-back indie-pop funk strut, 87 bpm, F# m
 
 ---
 
-## Lyrics (3,954 chars, under the 5,000-char limit)
+## Lyrics (4,103 chars, under the 5,000-char limit)
 
 ```
 [Intro - clean funky guitar lick, finger snaps, rubbery bass walks in, laid-back strut]
@@ -94,7 +94,7 @@ Too strong, too strong, too strong, too strong
 A hundred things I wanna say, I'm saying every one
 Too strong, too strong, too strong, too...
 
-[Drop - 174 bpm electro-rock drum and bass, distorted guitars locked with growling bass, endless Shepard-tone riser underneath, gang shouts, chopped pitched-up falsetto]
+[Drop - 174 bpm electro-rock drum and bass, distorted guitars locked with growling bass, endless Shepard-tone riser underneath that never peaks, gang shouts, chopped pitched-up falsetto]
 (COME ON!)
 (TOO STRONG!)
 too-too-too strong
@@ -120,10 +120,13 @@ save a little room, room, room
 (COME ON!)
 (TOO STRONG!)
 
-[Final Build - one-beat gap, then the riser keeps climbing, gang vocals stacking, drums at full speed]
+[Final Build - one-beat gap, then the Shepard-tone riser keeps climbing, stacked ooh harmonies rising endlessly like a staircase, gang vocals stacking, drums at full speed]
 I got a hundred things I wanna say
+(Ooh-ooh, higher)
 And I'm not looking away
+(Ooh-ooh, higher)
 I got a hundred things I wanna say
+(Ooh-ooh, higher, higher)
 And I'm NOT! LOOKING! AWAY!
 
 [Final Drop - highest energy of the song, the falsetto chorus melody returns belted over the drum and bass, Shepard-tone riser climbing to the cut, everything maxed]
@@ -189,6 +192,8 @@ These numbers come from analysing both uploaded files. They are why the prompt s
 A Shepard tone is an audio illusion: a stack of rising pitches that sounds like it goes up forever without ever getting higher. Under part two it makes the listener feel the song is still building even during a drop that has already peaked. That is Overkill's escalation turned into a literal effect.
 
 It is now in both part-two style prompts ("an endless Shepard-tone riser climbs under every drop") and in the Drop, Build-Up 2, Drop 2 and Final Drop tags. To go back to the version without it, delete that phrase from the style and the tags.
+
+The Final Build also has a vocal version of the same idea. The "ooh-ooh" from the intro comes back as stacked harmonies climbing like a staircase, with "(Ooh-ooh, higher)" answering each line. Singers can't climb forever, so the riser under them carries the illusion.
 
 Suno may ignore the phrase or render it as an ordinary riser. So there is also a real one in `stems/`, made with `make_shepard_riser.py`:
 
